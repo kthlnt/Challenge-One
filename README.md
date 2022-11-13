@@ -1,5 +1,4 @@
-# Challenge-One
-Horiseon Webpage
+# Horiseon Webpage
 
 ## Description
 
