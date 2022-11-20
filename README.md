@@ -1,5 +1,7 @@
 # Horiseon Webpage
 
+https://kthlnt.github.io/Horiseon/#search-engine-optimization
+
 ## Description
 
 This webpage had been altered to include semantic HTML elements, follow a logical structure, 
